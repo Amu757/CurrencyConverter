@@ -7,7 +7,7 @@
   border-radius: 40px;
 }
 .mostouterbox{
-  height: 70vh;
+  height: 55vh;
   width: 50vw;
   border: 2px solid black;
   position: relative;
@@ -16,6 +16,7 @@
   row-gap: 2px;
   padding: 20px;
   border-radius: 20px;
+  justify-content: center;
 }
 .logo {
   height: 6em;
