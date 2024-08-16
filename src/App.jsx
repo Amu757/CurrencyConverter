@@ -35,7 +35,7 @@ function App() {
         onCurrencyChange={(e) => setFromCurrency(e.target.value)}
       />
       <button className="button" onClick={swap}>
-        Spap
+        Swap
       </button>
       <Inputbox
         label="To"
